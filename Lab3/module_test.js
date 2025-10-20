@@ -1,6 +1,6 @@
 const currency1 = require('./currency1');
-const Currency = require('./currency2');
-const currency2 =  new Currency(constructorParameters);
+//const Currency = require('./currency2');
+//const currency2 =  new Currency(constructorParameters);
 
 console.log('--> Moduł przez referencję do obiektu export <--');
 console.log('50 dolarów kanadyjskich odpowiada następującej ilości złotych:');
