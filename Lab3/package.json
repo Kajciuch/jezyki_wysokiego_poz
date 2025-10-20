@@ -1,0 +1,19 @@
+{
+  "name": "jezyki_wysokiego_prog",
+  "version": "1.0.0",
+  "description": "sem. V, 2025/26",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kajciuch/jezyki_wysokiego_poz.git"
+  },
+  "author": "Kajciuch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kajciuch/jezyki_wysokiego_poz/issues"
+  },
+  "homepage": "https://github.com/Kajciuch/jezyki_wysokiego_poz#readme"
+}
